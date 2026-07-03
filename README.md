@@ -101,6 +101,8 @@ The study highlights the importance of integrating ecological, climatic, and top
 * Conservation GIS
 
 <img width="602" height="337" alt="Study Area" src="https://github.com/user-attachments/assets/ec7c1d68-dc93-4758-9dcd-ce0c2201561b" />
+<img width="909" height="522" alt="Screenshot 2026-07-03 123947" src="https://github.com/user-attachments/assets/15a00abc-9e8b-407a-8c9f-8ddf57cdbe29" />
+<img width="1001" height="289" alt="Screenshot 2026-07-03 130122" src="https://github.com/user-attachments/assets/278b47b3-1cc3-4ba1-a4c6-2063076e03db" />
 <img width="2802" height="998" alt="methodology" src="https://github.com/user-attachments/assets/97d21df6-376f-49c5-82ac-f4cf11a2d575" />
 <img width="2139" height="677" alt="method2" src="https://github.com/user-attachments/assets/3d6e655d-b089-407c-9437-38bf1c06da45" />
 <img width="3507" height="2480" alt="LULC" src="https://github.com/user-attachments/assets/5240840d-a71e-49ed-a58a-5352602e2a4e" />
